@@ -10,6 +10,8 @@ Run OSX/Linux:
 or  Windows: 
 
 mvnw.exe 
+
 mvnw.exe clean install
+
 mvnw.exe spring-boot:run
 
